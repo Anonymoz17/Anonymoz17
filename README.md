@@ -44,10 +44,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymoz17&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymoz17&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
