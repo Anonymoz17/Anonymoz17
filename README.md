@@ -70,9 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anonymoz17&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
   <i>⭐️ From [Anonymoz17](https://github.com/Anonymoz17)</i>
 </div>
