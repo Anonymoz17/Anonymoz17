@@ -1,17 +1,5 @@
 # Anonymoz17's Profile
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Anonymoz17/Identifying-Cryptographic-Function-in-Blockchain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymoz17&repo=Identifying-Cryptographic-Function-in-Blockchain&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -20,7 +8,6 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
