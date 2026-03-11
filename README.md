@@ -57,7 +57,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/phone-tay-za-luiz-a09402267">
+  <a href="https://www.linkedin.com/in/phone-tay-za-a09402267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:luiztayza2035@gmail.com">
